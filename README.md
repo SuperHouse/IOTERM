@@ -3,12 +3,12 @@ I/O Breakout To Screw Terminals
 Copyright 2017 SuperHouse Pty Ltd  
 SuperHouse site:  www.superhouse.tv  
 
-Breaks out a 2x5 pin header to 8 pairs of screw terminals.
+Breaks out a 2x6 pin header to 12 screw terminals.
 
 Features:
 
  * 8 data lines
- * GND and VCC passed through
+ * GND, VIN, IOREF, and RESET passed through
 
 More information is available at:
 
